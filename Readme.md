@@ -7,3 +7,6 @@ Then you can according to the tips to build your gf apps.
 Or you can download the binary file has been uploaded and then directly run it.
 
 easyly!!!
+
+notice:
+For easyly to build ,you'd better to put the binary file to your goenv work root directory.example: E:\goes\src;
